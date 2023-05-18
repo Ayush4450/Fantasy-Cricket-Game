@@ -1,5 +1,6 @@
 # Fantasy-Cricket-Game
-This project is about the working of the Fantasy Cricket Game. It is made using Python, sqlite3, SQLite Studio and QtDesigner.
+This project is about the working of the Fantasy Cricket Game where the user has to make a team of 11 players and earn points according to their performance.
+It is made using Python, sqlite3, SQLite Studio and QtDesigner.
 
 
 The project consists of 5 main files –
